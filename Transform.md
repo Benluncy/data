@@ -8,7 +8,7 @@ Transform:
 
 位置编码（Positional Encoding）的实例化理解：https://www.bilibili.com/video/BV1yG411Z78H/?spm_id_from=333.337.search-card.all.click&vd_source=714d825f236a68ff0eac19dda098f7e1
 
-<img src="https://raw.githubusercontent.com/Benluncy/PicGo/main/202408261157894.png" alt="image-20240825144218288" style="zoom: 20%;" />
+<img src="https://raw.githubusercontent.com/Benluncy/PicGo/main/202408261157894.png" alt="image-20240825144218288" style="zoom: 15%;" />
 
 | 我   | Pos  | dim=6              | (pos,2i or 2i+1)   | (i的最大值能取dim/2) |                  |      |      |
 | ---- | ---- | ------------------ | ------------------ | -------------------- | ---------------- | ---- | ---- |
